@@ -92,10 +92,10 @@ To run this project locally:
 ## 📸 Screenshots
 
 <p align="center">
-    <img src="Screenshots/GHFollower Profile.png" alt="GitHub Account Followers Listing Screen" width="250">
-    <img src="Screenshots/GHFollowers Screen.png" alt="GitHub Account Followers Listing Screen" width="250">
-    <img src="Screenshots/GHFollowerMainScreen.png" alt="GitHub Favorites Account Listing Screen" width="250">  
-    <img src="Screenshots/GHFollower Favorites.png" alt="GitHub Account Search Screen" width="250">
+  <img src="Screenshots/GHFollowerMainScreen.png" alt="GitHub Favorites Account Listing Screen" width="200">  
+  <img src="Screenshots/GHFollowers Screen.png" alt="GitHub Account Followers Listing Screen" width="200">
+  <img src="Screenshots/GHFollower Profile.png" alt="GitHub Account Followers Listing Screen" width="200">
+    <img src="Screenshots/GHFollower Favorites.png" alt="GitHub Account Search Screen" width="200">
 </p>
 
 ---
